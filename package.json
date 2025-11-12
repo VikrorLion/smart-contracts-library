@@ -1,0 +1,14 @@
+{
+  "name": "smart-contracts-library",
+  "version": "1.0.0",
+  "description": "Collection of sample Solidity smart contracts",
+  "scripts": {
+    "test": "npx hardhat test"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "@openzeppelin/contracts": "^5.0.0",
+    "dotenv": "^16.0.0",
+    "hardhat": "^2.22.0"
+  }
+}
